@@ -13,7 +13,7 @@ const Hero = () => {
             loop
             playsInline
           >
-            <source src="src/public/Professional_Mode_A_girl_holds_light_in_her_hands_.mp4" type="video/mp4" />
+            <source src="/Professional_Mode_A_girl_holds_light_in_her_hands_.mp4" type="video/mp4" />
             הדפדפן שלך לא תומך בתגית הוידאו.
           </video>
           <div className="absolute inset-0 bg-gradient-to-l from-mint-900/40 to-mint-900/10"></div>
